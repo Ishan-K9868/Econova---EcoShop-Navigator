@@ -3,6 +3,12 @@
 
 EcoShop Navigator is a cutting-edge web application designed to empower users to make more sustainable shopping choices. It offers a rich platform to explore eco-friendly products, analyze their environmental impact, participate in a circular economy marketplace, and engage with sustainability through gamified features and AI-driven insights.
 
+## 🚀 Deployment
+
+This application is live and can be viewed at:
+
+**https://eco-shop-navigator.vercel.app/**
+
 ## 👥 Team Members
 
 *   Ishan Kumar (23/IT/074)
