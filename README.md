@@ -3,6 +3,13 @@
 
 EcoShop Navigator is a cutting-edge web application designed to empower users to make more sustainable shopping choices. It offers a rich platform to explore eco-friendly products, analyze their environmental impact, participate in a circular economy marketplace, and engage with sustainability through gamified features and AI-driven insights.
 
+## 👥 Team Members
+
+*   Ishan Kumar (23/IT/074)
+*   Manya Valecha (23/IT/096)
+*   Ishu (23/IT/077)
+*   Kanak Maheshwari
+
 ## ✨ Core Features
 
 EcoShop Navigator boasts a wide array of features aimed at promoting sustainable consumption:
