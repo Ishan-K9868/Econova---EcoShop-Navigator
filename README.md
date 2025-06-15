@@ -285,8 +285,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 Please ensure your code adheres to the existing style and that any new features are well-documented.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details (if one exists, otherwise assume MIT or specify).
-(Note: A `LICENSE` file was not provided, MIT is a common default for open source projects).
-      
