@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of EcoShop Navigator final",
+  "description": "A web application to explore eco-friendly products, estimate carbon footprints, and simulate group buys for sustainable shopping. It leverages AI for insights and product ideas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
